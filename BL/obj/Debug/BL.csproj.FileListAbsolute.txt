@@ -1,0 +1,28 @@
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\BL.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\BL.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\Models.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\Models.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\obj\Debug\BL.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\obj\Debug\BL.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\Dal.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\Dal.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\Dal.dll.config
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\EntityFramework.xml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\BL\bin\Debug\BL.dll.config
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\BL.dll.config
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\BL.dll
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\BL.pdb
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\Dal.dll
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\Models.dll
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\Dal.pdb
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\Dal.dll.config
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\Models.pdb
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\bin\Debug\EntityFramework.xml
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\obj\Debug\BL.dll
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\BL\obj\Debug\BL.pdb

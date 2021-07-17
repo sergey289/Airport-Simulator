@@ -1,0 +1,12 @@
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\Models\bin\Debug\Models.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\Models\bin\Debug\Models.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\Models\obj\Debug\Models.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Final Project\AirPort\Models\obj\Debug\Models.pdb
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\Models\bin\Debug\Models.dll
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\Models\bin\Debug\Models.pdb
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\Models\obj\Debug\Models.dll
+C:\Users\sergey\Desktop\Новая папка (2)\AirPort\Models\obj\Debug\Models.pdb

@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="AirPort.Views.StationsStatusView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AirPort.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             DataContext="{Binding Source={StaticResource Locator},Path=status}">
+
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding GetStatusComand}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    
+    <Grid Margin="0,0,0,199">
+        <DataGrid ItemsSource="{Binding Stations, Mode=TwoWay}" Height="251" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding stationID}" Header="Station ID"/>
+                <DataGridTextColumn Binding="{Binding stationNnumber}" Header="Station Number" />
+                <DataGridTextColumn Binding="{Binding airplaneID}" Header="AirPlaneID"/>
+                <DataGridTextColumn Binding="{Binding _CurrentStationStatus}" Header="Station Status">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Style.Triggers>
+                                <Trigger Property="Text" Value="Free">
+                                    <Setter Property="Background" Value="LightGreen"/>
+                                </Trigger>
+                                <Trigger Property="Text" Value="Busy">
+                                    <Setter Property="Background" Value="Red"/>
+                                </Trigger>
+                            </Style.Triggers>
+                            
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+
+    </Grid>
+</UserControl>

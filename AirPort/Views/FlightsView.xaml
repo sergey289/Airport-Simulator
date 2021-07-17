@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="AirPort.Views.FlightsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AirPort.Views"
+             mc:Ignorable="d" 
+             xmlns:vm="clr-namespace:AirPort.ViewModel"
+             xmlns:views="clr-namespace:AirPort.Views"
+             d:DesignHeight="450" d:DesignWidth="800"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             DataContext="{Binding Source={StaticResource Locator},Path=flight}">
+    
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding GetFlightsComand}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    
+    
+    <Grid Margin="0,10,0,190">
+
+        <ListView ItemsSource="{Binding Flights}"  Margin="10" x:Name="flight_view">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Flight ID" Width="80" DisplayMemberBinding="{Binding flightID }"  />
+                    <GridViewColumn Header="Flight Number" Width="100" DisplayMemberBinding="{Binding flightNumber}" />
+                    <GridViewColumn Header="AirPlaneID" Width="100" DisplayMemberBinding="{Binding airPlaneID}" />
+                    <GridViewColumn Header="Destination" Width="100" DisplayMemberBinding="{Binding destination}" />
+                    <GridViewColumn Header="Time" Width="100" DisplayMemberBinding="{Binding time}" />
+                    <GridViewColumn x:Name="columHeader_Status" Header="Status" Width="80" DisplayMemberBinding="{Binding CurentStatus}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</UserControl>
