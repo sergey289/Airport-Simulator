@@ -7,11 +7,11 @@ A computer system that simulates airport activities. The simulator allows you to
 
 #### ScreenShots:
 
-![Webp net-resizeimage](https://user-images.githubusercontent.com/63552702/126034895-9ca7f3d8-28e2-4b16-9d65-62c06a6685bf.png)
-
 ![2](https://user-images.githubusercontent.com/63552702/126034920-9455fb79-b9af-443c-887f-bd040f8a541c.png)
 
 ![33](https://user-images.githubusercontent.com/63552702/126034940-ba002146-360b-4b8a-b389-acbd3a722026.png)
+
+![Webp net-resizeimage](https://user-images.githubusercontent.com/63552702/130441156-9b6e2f69-c057-4872-85cf-5e3b8f8632e0.png)
 
 
 ## Usage:
